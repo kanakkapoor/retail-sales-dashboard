@@ -10,7 +10,7 @@ The objective of this project is to transform raw sales data into a visually app
 
 ## Dashboard Preview
 
-> **(Insert your dashboard screenshot here)**
+<img width="925" height="610" alt="image" src="https://github.com/user-attachments/assets/9f2e151f-07ae-4318-be9f-f55f832d9438" />
 
 ---
 
