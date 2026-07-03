@@ -1,4 +1,4 @@
-# 📊 Retail Sales Dashboard
+# Retail Sales Dashboard
 
 ## 📌 Project Overview
 
@@ -8,13 +8,13 @@ The objective of this project is to transform raw sales data into a visually app
 
 ---
 
-## 🚀 Dashboard Preview
+## Dashboard Preview
 
 > **(Insert your dashboard screenshot here)**
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze overall sales performance.
 * Track sales across different regions and categories.
@@ -24,7 +24,7 @@ The objective of this project is to transform raw sales data into a visually app
 
 ---
 
-## 🛠️ Tools & Skills Used
+## Tools & Skills Used
 
 * Google Sheets
 * Pivot Tables
@@ -38,7 +38,7 @@ The objective of this project is to transform raw sales data into a visually app
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 * 💰 Total Sales
 * 📦 Total Orders
@@ -50,7 +50,7 @@ The objective of this project is to transform raw sales data into a visually app
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 * Interactive dashboard with filters
 * Dynamic Pivot Tables
@@ -62,7 +62,7 @@ The objective of this project is to transform raw sales data into a visually app
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Retail-Sales-Dashboard/
@@ -74,7 +74,7 @@ Retail-Sales-Dashboard/
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 
 * Identified the best-performing product categories based on total sales.
 * Compared regional sales performance to identify high-performing markets.
@@ -84,7 +84,7 @@ Retail-Sales-Dashboard/
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I strengthened my understanding of:
 
@@ -102,7 +102,7 @@ Through this project, I strengthened my understanding of:
 
 
 
-## 👩‍💻 Author
+## Author
 
 **Kanak Kapoor**
 
@@ -110,4 +110,3 @@ Aspiring Data Analyst passionate about turning data into meaningful insights thr
 
 ---
 
-## ⭐ If you found this project useful, feel free to star the repository!
